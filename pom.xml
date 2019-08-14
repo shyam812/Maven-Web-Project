@@ -85,11 +85,11 @@
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://52.66.238.77:8081/repository/sam-release/</url>
 	    </repository>
-	    <snapshotRepository>
+	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://52.66.238.77:8081/repository/sam-snapshot/</url>
-	    </snapshotRepository>
+	    </repository>
 	</distributionManagement>
 	
 	
